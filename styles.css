@@ -1,0 +1,38 @@
+/* *****************************TAG selectors ********************************* */
+body{
+  background-color:#F3EFE0;
+}
+hr {
+  border-style:none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width:10px;
+
+  width:5%;
+}
+hr:hover{
+  border-color:blue;
+}
+img {
+  height: 300px;
+}
+h1  {
+  color:green;
+
+}
+h1 :hover{
+  background-color:blue;
+}
+h3 {
+  color:#66bfbf;
+}
+
+/* *****************************CLASS selectors ********************************* */
+.certificate{
+  background-color:grey;
+}
+
+/* *****************************ID selectors ********************************* */
+#name{
+  color:red;
+}
